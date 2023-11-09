@@ -48,7 +48,7 @@ a:hover {
 text-decoration: underline;
 }
 a:active {
-    color: var(--color-light-grey);
+    background-color: var(--color-light-grey);
 }
 .section-header {
 text-align: var(--section-header-align);
