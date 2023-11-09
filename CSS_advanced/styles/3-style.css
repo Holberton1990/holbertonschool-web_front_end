@@ -1,0 +1,46 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: var(--text-color);
+}
+a {
+    color: var(--text-color);
+}
+
+.visually-hidden {
+    display: none;
+}
+
+.card-category {
+    color: var(--color-primary);
+}
+
+.section-tagline {
+    color: var(--color-primary);
+}
+
+:root {
+    --color-primary: #d73953;
+}
+
+:root {
+    --color-black: #090909;
+}
+
+:root {
+    --color-white: #ffffff;
+}
+
+:root {
+    --color-light-grey: #f3f3f3;
+}
+
+:root {
+    --color-dark-grey: #353535;
+}
+
+:root {
+    --text-color: var(--color-black);
+}
